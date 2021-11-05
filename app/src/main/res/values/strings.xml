@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Equation.2.4.3</string>
+    <string name="title">Решить уравнение a·x²+b·x+c</string>
+    <string name="sirotir">Powered by Igor Sirotkin</string>
+    <string name="a">Введите A</string>
+    <string name="b">Введите B</string>
+    <string name="c">Введите C</string>
+    <string name="calculate">Вычислить</string>
+</resources>
